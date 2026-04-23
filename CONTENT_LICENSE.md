@@ -24,8 +24,17 @@ Where possible, please attribute as:
 
 At minimum, your attribution should clearly include:
 
-- **Author**: Dominique Sutton (Domeauxnique)  
+- **Author**: Dominique Sutton (domeauxnique)  
 - **Source**: A URL or reference to this repository or specific file  
 - **License**: “CC BY 4.0” with a link to the license  
 
-Attribution should not suggest that I endorse you 
+Attribution should not suggest that I endorse you or your use.
+
+## Software Logic vs. Creative Content
+
+This CC BY 4.0 license applies to **creative content and AI outputs**, not to the underlying **software logic, source code, or build tooling**.
+
+- **Code and software logic** in this repository are licensed separately under the **Apache License 2.0** (see `LICENSE`).  
+- **Brand, trademarks, and identity**, including but not limited to “Domeauxnique”, “domeauxnique© all rights reserved”, “@domeauxnique”, “domeauxnique.xyz”, and “fait sur commande”, are **not licensed** under CC BY 4.0 or Apache 2.0 and remain reserved under the separate `TRADEMARK.md` policy.
+
+If you are unsure whether a specific file is covered by **Apache‑2.0** or **CC BY 4.0**, treat executable code and scripts as **Apache‑2.0**, and narrative, descriptive, or media assets as **CC BY 4.0**, unless explicitly marked otherwise.
