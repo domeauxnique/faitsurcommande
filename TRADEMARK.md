@@ -1,6 +1,7 @@
 Copyright 2026, domeauxnique. 
 All rights reserved.
 
+
 This repository is provided solely for review.
 No usage, modification, distribution, or reproduction of
 this code is allowed for any purpose without explicit 
