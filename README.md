@@ -1,4 +1,4 @@
-# faitsurcommande
+# faitsurcommande, @domeauxnique, domeauxnique, domeauxnique.xyz, Dominique Sutton
 for shits and giggles
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Trademark Policy](https://img.shields.io/badge/Trademark-Reserved-black.svg)](./TRADEMARK.md)
